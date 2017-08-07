@@ -7,7 +7,6 @@ public class dias {
 		while(i!=0) {
 			i*=365;
 			System.out.println(i);
-			
 			i=entrada.nextInt();
 		}
 	}
